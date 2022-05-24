@@ -11,7 +11,7 @@ This is where your description should go. Try and limit it to a paragraph or two
 You can install the package via composer:
 
 ```bash
-composer require subash/payment
+composer require subashrijal5/payment-gateway
 ```
 
 ## Usage
@@ -40,7 +40,7 @@ If you discover any security related issues, please email subashrijal5@gmail.com
 
 ## Credits
 
--   [Subash Rijal](https://github.com/subash)
+-   [Subash Rijal](https://github.com/subashrijal5)
 -   [All Contributors](../../contributors)
 
 ## License

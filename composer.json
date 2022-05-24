@@ -1,8 +1,8 @@
 {
-    "name": "subash/payment",
+    "name": "subashrijal5/payment-gateway",
     "description": "Laravel package for paypal and stripe payment gateway",
     "keywords": [
-        "subash",
+        "subashrijal5",
         "payment"
     ],
     "homepage": "https://github.com/subash/payment",
@@ -36,7 +36,6 @@
     "scripts": {
         "test": "vendor/bin/phpunit",
         "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
-
     },
     "config": {
         "sort-packages": true
